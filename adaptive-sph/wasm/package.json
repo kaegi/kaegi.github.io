@@ -1,0 +1,15 @@
+{
+  "name": "adaptive-sph",
+  "collaborators": [
+    "kaegi <kaegi.dev@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "adaptive_sph_bg.wasm",
+    "adaptive_sph.js",
+    "adaptive_sph.d.ts"
+  ],
+  "module": "adaptive_sph.js",
+  "types": "adaptive_sph.d.ts",
+  "sideEffects": false
+}
