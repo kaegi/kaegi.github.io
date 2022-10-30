@@ -2,7 +2,7 @@
 
 This project is the accompanying project to my master thesis about fluid simulation with Smoothed-particle hydrodynamics (SPH) using adaptive particle sizes.
 
-**[You can try it in your browser here.]()**
+**[You can try it in your browser here.](https://kaegi.github.io/adaptive-sph/)**
 
 ![](motivation.png)
 
